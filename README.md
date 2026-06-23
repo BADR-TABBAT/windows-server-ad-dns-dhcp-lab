@@ -42,5 +42,22 @@ This lab project demonstrates the setup and basic configuration of a Windows Ser
 - Practical experience with AD DS, DNS, and DHCP
 - Improved technical documentation skills
 
+## Screenshots
+
+### Architecture Overview
+![Architecture Overview](docs/screenshots/architecture-overview.png)
+
+### Server Manager – AD DS
+![Server Manager](docs/screenshots/server-manager-ad-ds.png)
+
+### Active Directory Users and OUs
+![Active Directory](docs/screenshots/active-directory-users-ou.png)
+
+### DNS Manager
+![DNS Manager](docs/screenshots/dns-manager-zone.png)
+
+### DHCP Scope Configuration
+![DHCP Scope](docs/screenshots/dhcp-scope-config.png)
+
 ## Important Note
 This repository contains a lab/personal learning version of the project. Any sensitive or company-specific information has been removed or anonymized.
